@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tiago\\Documents\\desenvolvimento\\VS Code\\mensageria_rabbitmq\\Message.Sender\\Message.Sender.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tiago\\Documents\\desenvolvimento\\VS Code\\mensageria_rabbitmq\\Message.Sender\\Message.Sender.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tiago\\Documents\\desenvolvimento\\VS Code\\mensageria_rabbitmq\\Message.Sender\\Message.Sender.csproj",
+        "projectName": "Message.Sender",
+        "projectPath": "C:\\Users\\Tiago\\Documents\\desenvolvimento\\VS Code\\mensageria_rabbitmq\\Message.Sender\\Message.Sender.csproj",
+        "packagesPath": "C:\\Users\\Tiago\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tiago\\Documents\\desenvolvimento\\VS Code\\mensageria_rabbitmq\\Message.Sender\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

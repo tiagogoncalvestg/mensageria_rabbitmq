@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3WQ9dI8m6SY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tiago\\Documents\\desenvolvimento\\VS Code\\mensageria_rabbitmq\\Message.Sender\\Message.Sender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tiago\\.nuget\\packages\\rabbitmq.client\\7.0.0\\rabbitmq.client.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tiago\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\Tiago\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
